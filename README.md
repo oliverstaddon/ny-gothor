@@ -8,6 +8,7 @@ Ny-Gothor is a crudely made text-based adventure game. It was developed as part 
 - Simple command input system
 - Monster combat with a variety of weapons
 - Multiple story paths and endings
+- Game saving
 
 
 ## License
